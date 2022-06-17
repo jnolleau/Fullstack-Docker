@@ -20,11 +20,7 @@ Not suitable is no .env and no built image exist
 docker compose up
 ```
 
-Basically, it will install all the js dependencies and start a dev server at
-
-```
-http://localhost:00/
-```
+Basically, it will install all the js dependencies and start a dev servers (see Application structure)
 
 ## The Vue,js frontend has the following dependencies:
 ```
